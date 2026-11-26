@@ -1,0 +1,6 @@
+{
+  "name": "CivicClear AI: Plain-Language Ordinance & Policy Navigator",
+  "description": "Translate dense local government ordinances, barangay notices, and public service procedures into clear, plain-language summaries, obligations, and step-by-step checklists aligned with SDG 16.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
